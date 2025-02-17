@@ -46,7 +46,7 @@
 <h3 align="center">📊 Coding Stats 📈</h3>
 <p align="center"><img src="https://leetcard.jacoblin.cool/ananyasaha2242?ext=heatmap&theme=dark"></p>
 
-<p align="left" class="twitter"> <a href="https://twitter.com/swatadrupaul" target="blank"><img src="https://img.shields.io/twitter/follow/swatadrupaul?logo=twitter&style=for-the-badge" alt="swatadrupaul" /></a> </p>
+<!--<p align="left" class="twitter"> <a href="https://twitter.com/swatadrupaul" target="blank"><img src="https://img.shields.io/twitter/follow/swatadrupaul?logo=twitter&style=for-the-badge" alt="swatadrupaul" /></a> </p>-->
 
 - 🌱 I’m currently learning <span class="highlight">**Java, C, Python, Web Development**</span>
 
