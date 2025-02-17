@@ -5,7 +5,7 @@
 <p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=ananyasaha2242&label=Profile%20views&color=0e75b6&style=flat" alt="ananyasaha2242" /> </p>
 
 <h1 align="center" class="title">Hi 👋, I'm ANANYA SAHA</h1>
-<h3 align="center" class="subtitle">A passionate Coder from India</h3>
+<h3 align="center" class="subtitle">A passionate Web Developer from India</h3>
 
 
 <h3 align="center" class="connect-title">🔗 Connect with me 🌏</h3>
@@ -48,7 +48,7 @@
 
 <p align="left" class="twitter"> <a href="https://twitter.com/swatadrupaul" target="blank"><img src="https://img.shields.io/twitter/follow/swatadrupaul?logo=twitter&style=for-the-badge" alt="swatadrupaul" /></a> </p>
 
-- 🌱 I’m currently learning <span class="highlight">**Java, C, Python, AI-ML, Web & App Development**</span>
+- 🌱 I’m currently learning <span class="highlight">**Java, C, Python, Web Development**</span>
 
 - 👨‍💻 All of my projects are available at <a href="https://swatadru.github.io/MyPortfolio/" class="project-link">[https://ananyasaha2242.github.io/MyPortfolio/](https://ananyasaha2242.github.io/MyPortfolio/)</a>
 
@@ -69,13 +69,13 @@
     <img src="images/platforms/android.svg" height="34" alt="Android" align=right>&nbsp;&nbsp;
     <!--<img src="images/platforms/ios.png" height="34" alt="iOS" align=right>&nbsp;&nbsp;-->
     <img src="images/platforms/windows.svg" height="34" alt="Windows" align=right>&nbsp;&nbsp;
-    <img src="images/platforms/linux.svg" height="34" alt="Linux" align=right>&nbsp;&nbsp;
+    <!--<img src="images/platforms/linux.svg" height="34" alt="Linux" align=right>&nbsp;&nbsp;-->
     <!--<img src="images/platforms/macos.svg" height="34" alt="macOS" align=right>&nbsp;&nbsp;-->
 </h1>
 
 <h1>Language & Script:&nbsp;&nbsp; <!-- Language & Script -->
-    <img src="images/languages/pwsh.svg" height="34" alt="PowerShell" align=right>&nbsp;&nbsp;
-    <img src="images/languages/bash.svg" height="34" alt="bash" align=right>&nbsp;&nbsp;
+    <!--<img src="images/languages/pwsh.svg" height="34" alt="PowerShell" align=right>&nbsp;&nbsp;-->
+    <!--<img src="images/languages/bash.svg" height="34" alt="bash" align=right>&nbsp;&nbsp;-->
     <img src="images/languages/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
     <img src="images/languages/java.svg" height="34" alt="JAVA" align=right>&nbsp;&nbsp;
     <!--<img src="images/languages/c-sharp.svg" height="34" alt="C#" align=right>&nbsp;&nbsp;
@@ -99,7 +99,7 @@
 </h1> -->
 
 <h1>Database:&nbsp;&nbsp; <!-- Database -->
-    <img src="images/database/firebase.svg" height="34" alt="Firebase" align=right>&nbsp;&nbsp;
+    <!--<img src="images/database/firebase.svg" height="34" alt="Firebase" align=right>&nbsp;&nbsp;-->
     <!--<img src="images/database/DynamoDB-Dark.svg" height="34" alt="DynamoDB" align=right>&nbsp;&nbsp;-->
     <!--<img src="images/database/mongo-db.svg" height="34" alt="MongoDB" align=right>&nbsp;&nbsp;-->
     <img src="images/database/MySQL.svg" height="34" alt="MySQL" align=right>&nbsp;&nbsp;
