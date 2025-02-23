@@ -50,13 +50,13 @@
 
 - 🌱 I’m currently learning <span class="highlight">**Java, C, Python, Web Development**</span>
 
-- 👨‍💻 All of my projects are available at <a href="https://swatadru.github.io/MyPortfolio/" class="project-link">[https://ananyasaha2242.github.io/MyPortfolio/](https://ananyasaha2242.github.io/MyPortfolio/)</a>
+- 👨‍💻 All of my projects are available at <a href="https://ananyasaha2242.github.io/MyPortfolio/" class="project-link">[https://ananyasaha2242.github.io/MyPortfolio/](https://ananyasaha2242.github.io/MyPortfolio/)</a>
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **sahaananya2242@gmail.com**
 
-- 📄 Know about my experiences <a href="https://ananyasaha2242.github.io/MyPortfolio/#resume" class="resume-link">[https://ananyasaha2242.github.io/MyPortfolio/#resume](https://ananyasaha2242.github.io/MyPortfolio/#resume)</a>
+- 📄 Know about my experiences <a href="https://ananyasaha2242.github.io/MyPortfolio/" class="resume-link">[https://ananyasaha2242.github.io/MyPortfolio/](https://ananyasaha2242.github.io/MyPortfolio/)</a>
 
 
 <!-- Skills -->
